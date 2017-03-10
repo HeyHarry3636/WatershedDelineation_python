@@ -37,7 +37,7 @@ The pour points for the tool's execution came from Tim B.
 
 ## License
 
-This code is available under the [MIT License.] (LICENSE.txt)
+This code is available under the [MIT License.] (LICENSE)
 
 <img src="demClip.PNG" width="240" height="180" border="10" />
 <img src="streamlines.PNG" width="240" height="180" border="10" />
